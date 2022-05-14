@@ -746,8 +746,9 @@ main {
 }
 
 .clients-item img {
-  width: 100%;
-  filter: grayscale(1);
+  margin-left: 20px;
+  width: 78%;
+  /* filter: grayscale(1); */
   transition: var(--transition-1);
 }
 
